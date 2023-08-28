@@ -45,7 +45,7 @@
 }
 
 body {
-    font-size: 150%;
+    font-size: 200%;
     text-align: center;
     font-family: Libre Baskerville;
     background-color: black;
@@ -115,6 +115,10 @@ a {
 
 .neupos-pic {
     width: 100vw;
+}
+
+.wider-text {
+    width: 70vw;
 }
 
 .split-screen {
