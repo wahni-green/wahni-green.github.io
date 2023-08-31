@@ -124,3 +124,27 @@ a {
 .split-screen {
     display: flex;
 }
+
+.footer {
+    position: fixed;
+    bottom: 2%;
+    right: 2%;
+    font-size: 60%;
+    font-family: Satisfy;
+}
+
+.header {
+    position: fixed;
+    font-size: 60%;
+    font-family: Satisfy;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-wahni {
+    float: left;
+}
+
+.header-frappe {
+    float: right;
+}
