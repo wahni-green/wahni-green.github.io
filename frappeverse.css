@@ -121,6 +121,11 @@ a {
     width: 70vw;
 }
 
+.fullscreen {
+    width: 90vw;
+    height: 90vh;
+}
+
 .split-screen {
     display: flex;
 }
